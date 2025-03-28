@@ -4,7 +4,7 @@
 This repository contains code and resources for building a Generatively Pretrained Transformer (GPT) from scratch, inspired by the "Attention is All You Need" paper and the architectures of GPT-2 and GPT-3.
 
 ## This Project Reference Learn from youtube link below:
-_  **[Referance youtube link ](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=483s) This youtube channel to help you to built Chart GPT from step by step 
+[Referance youtube link ](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=483s) This youtube channel to help you to built Chart GPT from step by step 
 
 ## Overview
 
