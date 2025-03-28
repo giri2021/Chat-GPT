@@ -2,6 +2,8 @@
 ## Building a GPT from Scratch: Attention is All You Need and Beyond
 
 This repository contains code and resources for building a Generatively Pretrained Transformer (GPT) from scratch, inspired by the "Attention is All You Need" paper and the architectures of GPT-2 and GPT-3.
+This Project Reference Learn from youtube link below:
+_ [ referance youtube link ](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=483s) This youtube channel to help you to built Chart GPT from step by step 
 
 ## Overview
 
@@ -22,6 +24,8 @@ This project aims to provide a hands-on, educational experience in implementing 
 -   Basic understanding of deep learning and neural networks.
 -   Familiarity with the concepts of tensors and PyTorch `nn` modules.
 -   Recommended: Watch the makemore video series for foundational knowledge.
+  [DOWNLOARD data set](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
+
 
 ## Setup
 
@@ -108,9 +112,6 @@ This project builds upon the foundational knowledge provided by the makemore vid
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bug fixes, feature requests, or improvements.
 
-## License
-
-[MIT License or your chosen license]
 
 ## Disclaimer
 
