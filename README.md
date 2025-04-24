@@ -1,4 +1,4 @@
-# Chart-Gpt
+# Chat-Gpt
 ## Building a GPT from Scratch: Attention is All You Need and Beyond
 
 This repository contains code and resources for building a Generatively Pretrained Transformer (GPT) from scratch, inspired by the "Attention is All You Need" paper and the architectures of GPT-2 and GPT-3.
